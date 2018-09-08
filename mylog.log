@@ -1,0 +1,35 @@
+Log file created initially at 2018-09-02 15:18:22
+2018-09-02 15:18:22:    Welcome. <br> Click login to start logining.
+2018-09-02 15:18:24:    Starts to login...
+2018-09-02 15:19:17:    Login completed.
+2018-09-02 15:19:27:    Prepared to handle order: 1952693,1952697
+2018-09-02 15:19:33:    1952693: EndCustomerApprovalError: Order Already Accepted/Rejected Thank You
+2018-09-02 15:19:37:    1952697: EndCustomerApprovalError: Order Already Accepted/Rejected Thank You
+2018-09-02 15:21:10:    Welcome. <br> Click login to start logining.
+2018-09-02 15:21:15:    Starts to login, it may take several minutes...
+2018-09-02 15:21:51:    Login completed.
+2018-09-02 15:22:00:    Prepared to handle order: 1952693,1952697
+2018-09-02 15:22:04:    1952693: EndCustomerApprovalError: Order Already Accepted/Rejected Thank You
+2018-09-02 15:22:09:    1952697: EndCustomerApprovalError: Order Already Accepted/Rejected Thank You
+2018-09-02 15:22:09:    Work Done!
+2018-09-08 18:17:49:    Welcome. <br> Click login to start logining.
+2018-09-08 18:19:13:    Welcome. <br> Click login to start logining.
+2018-09-08 18:19:22:    Starts to login, it may take several minutes...
+2018-09-08 18:19:58:    Login completed.
+2018-09-08 18:20:10:    Prepared to handle order: 1952921
+2018-09-08 18:20:15:    1952921: EndCustomerApprovalError: Order Already Accepted/Rejected Thank You
+2018-09-08 18:20:15:    Work Done!
+2018-09-08 19:00:03:    Welcome. <br> Click login to start logining.
+2018-09-08 19:00:05:    Starts to login, it may take several minutes...
+2018-09-08 19:00:05:    <progress></progress>
+2018-09-08 19:00:21:    Message: no such session
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2018-09-08 19:00:21:    Failed to login, please do it again.
+2018-09-08 19:01:16:    Welcome. <br> Click login to start logining.
+2018-09-08 19:01:17:    Starts to login, it may take several minutes...
+2018-09-08 19:01:17:    <span class="progress-bar"><b style="width:50px;"> </b></span> 
+2018-09-08 19:01:29:    Message: no such session
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2018-09-08 19:01:29:    Failed to login, please do it again.

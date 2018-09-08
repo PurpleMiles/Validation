@@ -1,0 +1,12 @@
+QMainWindow {background-color: white; border: none; }
+QMenuBar{background-color: rgb(228,228,228);border: none; }
+QPushButton { background-color: white; border: 1px solid rgb(0,0,128);}
+QPushButton:hover { background-color: rgb(0,255,64); border: 1px solid rgb(0,255,64);}
+QPushButton:pressed { background-color: red; border: 1px solid #8f8f91; }
+QPushButton:disabled {background-color: white; border: 1px solid rgb(192,192,128);}
+QPushButton#pushButton_accept:pressed { background-color: green; border: 1px solid #8f8f91; }
+QMessageBox {background-color: white;}
+QMessageBox QPushButton {background-color: white; height:22px; width:70 px; border: 1px solid rgb(0,0,128)}
+QMessageBox#OK {background-color: white; height:22px; width:70 px; border: 1px solid rgb(0,0,128)}
+
+
